@@ -1,0 +1,125 @@
+[
+  { "id": 15, "icon": "polar.png", "name": "پلار", "label": "پلار" },
+  { "id": 17, "icon": "gaiter.png", "name": "گتر", "label": "گتر" },
+  { "id": 22, "icon": "tent.png", "name": "چادر", "label": "چادر" },
+  { "id": 11, "icon": "blanket.png", "name": "پتو", "label": "پتو" },
+  { "id": 33, "icon": "tabar.png", "name": "کلنگ", "label": "کلنگ" },
+  { "id": 10, "icon": "light.png", "name": "هدلایت", "label": "هدلایت" },
+  { "id": 16, "icon": "baton.png", "name": "باتوم", "label": "باتوم" },
+  { "id": 23, "icon": "gloves.png", "name": "دستکش", "label": "دستکش" },
+  { "id": 26, "icon": "harness.png", "name": "هارنس", "label": "هارنس" },
+  { "id": 20, "icon": "rainycoat.png", "name": "پانچو", "label": "پانچو" },
+  { "id": 14, "icon": "rainycoat.png", "name": "گرتکس", "label": "گرتکس" },
+  { "id": 40, "icon": "gps.png", "name": "جی پی اس", "label": "جی پی اس" },
+  { "id": 38, "icon": "stationery.png", "name": "خط کش", "label": "خط کش" },
+  { "id": 39, "icon": "stationery.png", "name": "نقاله", "label": "نقاله" },
+  { "id": 34, "icon": "eighy.png", "name": "هشت فرود", "label": "هشت فرود" },
+  { "id": 37, "icon": "compass.png", "name": "قطب نما", "label": "قطب نما" },
+  { "id": 18, "icon": "crampons.png", "name": "کرامپون", "label": "کرامپون" },
+  { "id": 31, "icon": "carabine.png", "name": "کارابین", "label": "کارابین" },
+  { "id": 36, "icon": "pen.png", "name": "نوشت افزار", "label": "نوشت افزار" },
+  { "id": 41, "icon": "meal.png", "name": "وعده غذایی", "label": "وعده غذایی" },
+  {
+    "id": 9,
+    "icon": "warmClothes.png",
+    "name": "لباس گرم",
+    "label": "لباس گرم"
+  },
+  {
+    "id": 13,
+    "icon": "mineralWater.png",
+    "name": "آب معدنی",
+    "label": "آب معدنی"
+  },
+  {
+    "id": 1,
+    "icon": "idCard.png",
+    "name": "کارت شناسایی",
+    "label": "کارت شناسایی"
+  },
+  {
+    "id": 2,
+    "icon": "pills.png",
+    "name": "داروهای شخصی",
+    "label": "داروهای شخصی"
+  },
+  {
+    "id": 3,
+    "icon": "sunGlasess.png",
+    "name": "عینک آفتابی",
+    "label": "عینک آفتابی"
+  },
+  {
+    "id": 4,
+    "icon": "hat.png",
+    "name": "کلاه نقابدار",
+    "label": "کلاه نقابدار"
+  },
+  {
+    "id": 5,
+    "icon": "backPack2.png",
+    "name": "کوله پشتی",
+    "label": "کوله پشتی"
+  },
+
+  {
+    "id": 24,
+    "icon": "sleeping-bag.png",
+    "name": "کیسه خواب",
+    "label": "کیسه خواب"
+  },
+  {
+    "id": 7,
+    "icon": "walkingShoe.png",
+    "name": "کفش پیاده روی",
+    "label": "کفش پیاده روی"
+  },
+  {
+    "id": 25,
+    "icon": "firstAid.png",
+    "name": "کمک های اولیه",
+    "label": "کمک های اولیه"
+  },
+  {
+    "id": 12,
+    "icon": "clothes.png",
+    "name": "لباس مناسب فصل",
+    "label": "لباس مناسب فصل"
+  },
+  {
+    "id": 27,
+    "icon": "rope.png",
+    "name": "طناب انفرادی",
+    "label": "طناب انفرادی"
+  },
+  {
+    "id": 32,
+    "icon": "helmet.png",
+    "name": "کلاه سنگنوردی",
+    "label": "کلاه سنگنوردی"
+  },
+  {
+    "id": 8,
+    "icon": "shoes.png",
+    "name": "کفش کوهنوردی",
+    "label": "کفش کوهنوردی"
+  },
+  {
+    "id": 19,
+    "icon": "rainycoat.png",
+    "name": "بارانی یا بادکیر",
+    "label": "بارانی یا بادکیر"
+  },
+  {
+    "id": 6,
+    "icon": "sanitary.png",
+    "name": "لوازم بهداشتی شخصی",
+    "label": "لوازم بهداشتی شخصی"
+  },
+  {
+    "id": 30,
+    "icon": "eighy.png",
+    "name": "ابزار حمایت و فرود",
+    "label": "ابزار حمایت و فرود"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  { "id": 1, "icon": "swamp.png", "name": "مرداب", "label": "مرداب" },
+  { "id": 2, "icon": "soup.png", "name": "آشکده", "label": "آشکده" },
+  { "id": 3, "icon": "safari.png", "name": "سافاری", "label": "سافاری" },
+  { "id": 4, "icon": "zoo.png", "name": "باغ وحش", "label": "باغ وحش" },
+  { "id": 5, "icon": "game.png", "name": "شهربازی", "label": "شهربازی" },
+  { "id": 6, "icon": "zipline.png", "name": "زیپلاین", "label": "زیپلاین" },
+  { "id": 7, "icon": "camel.png", "name": "شترسواری", "label": "شترسواری" },
+  { "id": 8, "icon": "carting.png", "name": "کارتینگ", "label": "کارتینگ" },
+  { "id": 9, "icon": "palmTree.png", "name": "نخلستان", "label": "نخلستان" },
+  {
+    "id": 10,
+    "icon": "sandCoast.png",
+    "name": "ساحل شنی",
+    "label": "ساحل شنی"
+  },
+  {
+    "id": 11,
+    "icon": "horse.png",
+    "name": "اسب سواری",
+    "label": "اسب سواری"
+  },
+  { "id": 12, "icon": "jeep.png", "name": "جیپ سواری", "label": "جیپ سواری" },
+  {
+    "id": 13,
+    "icon": "beach-chair.png",
+    "name": "ساحل دریا",
+    "label": "ساحل دریا"
+  },
+  {
+    "id": 14,
+    "icon": "telecabin2.png",
+    "name": "تله کابین",
+    "label": "تله کابین"
+  },
+  {
+    "id": 15,
+    "icon": "motorRacing.png",
+    "name": "موتور کراس",
+    "label": "موتور کراس"
+  },
+  {
+    "id": 16,
+    "icon": "boat.png",
+    "name": "قایق سواری",
+    "label": "قایق سواری"
+  },
+  { "id": 17, "icon": "lake.png", "name": "دریاچه نمک", "label": "دریاچه نمک" },
+
+  {
+    "id": 18,
+    "icon": "shopping-bag.png",
+    "name": "خرید سوغاتی",
+    "label": "خرید سوغاتی"
+  },
+  {
+    "id": 19,
+    "icon": "desertNight.png",
+    "name": "کمپ در دل کویر",
+    "label": "کمپ در دل کویر"
+  },
+  {
+    "id": 20,
+    "icon": "summerHouse.png",
+    "name": "ارتفاعات ییلاقی",
+    "label": "ارتفاعات ییلاقی"
+  },
+  {
+    "id": 21,
+    "icon": "ball.png",
+    "name": "بازی های گروهی",
+    "label": "بازی های گروهی"
+  },
+  {
+    "id": 22,
+    "icon": "shopping-bag (1).png",
+    "name": "خرید صنایع دستی",
+    "label": "خرید صنایع دستی"
+  },
+  {
+    "id": 23,
+    "icon": "camera.png",
+    "name": "عکاسی در دل طبیعت",
+    "label": "عکاسی در دل طبیعت"
+  },
+  {
+    "id": 24,
+    "icon": "hills.png",
+    "name": "تپه و رمل های شنی",
+    "label": "تپه و رمل های شنی"
+  },
+  {
+    "id": 25,
+    "icon": "fireCamp2.png",
+    "name": "شب نشینی در دل کویر",
+    "label": "شب نشینی در دل کویر"
+  },
+  {
+    "id": 26,
+    "icon": "fireCamp2.png",
+    "name": "چایی آتیشی و سیب زمینی ذغالی",
+    "label": "چایی آتیشی و سیب زمینی ذغالی"
+  }
+]

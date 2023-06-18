@@ -1,0 +1,33 @@
+[
+  { "id": 5, "icon": "kettle.png", "name": "فلاسک", "label": "فلاسک" },
+  { "id": 7, "icon": "foods.png", "name": "تنقلات", "label": "تنقلات" },
+  { "id": 8, "icon": "fruites.png", "name": "میوه", "label": "میوه" },
+  { "id": 1, "icon": "camera.png", "name": "دوربین", "label": "دوربین" },
+  { "id": 3, "icon": "sandalls.png", "name": "دمپایی", "label": "دمپایی" },
+  { "id": 9, "icon": "drinks.png", "name": "نوشیدنی", "label": "نوشیدنی" },
+  {
+    "id": 2,
+    "icon": "personalStuff.png",
+    "name": "ظروف شخصی",
+    "label": "ظروف شخصی"
+  },
+  {
+    "id": 4,
+    "icon": "sunCream.png",
+    "name": "کرم ضد آفتاب",
+    "label": "کرم ضد آفتاب"
+  },
+  {
+    "id": 6,
+    "icon": "blanket.png",
+    "name": "پتو مسافرتی",
+    "label": "پتو مسافرتی"
+  },
+
+  {
+    "id": 10,
+    "icon": "spoon.png",
+    "name": "قاشق و چنگال شخصی",
+    "label": "قاشق و چنگال شخصی"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "insurance",
+    "label": "بیمه مسولیت",
+    "icon": "insurance.png"
+  },
+  {
+    "id": 2,
+    "name": "guid",
+    "label": "راهنمای تور",
+    "icon": "tour-guide.png"
+  },
+  { "id": 3, "name": "vipBus", "label": "اتوبوس VIP", "icon": "bus.png" },
+  {
+    "id": 4,
+    "name": "bus",
+    "label": "اتوبوس معمولی",
+    "icon": "school-bus.png"
+  },
+  {
+    "id": 5,
+    "name": "airplane",
+    "label": "هواپیما",
+    "icon": "airplane.png"
+  },
+  { "id": 6, "name": "train", "label": "قطار", "icon": "train.png" },
+  {
+    "id": 7,
+    "name": "personalCar",
+    "label": "وسیله شخصی",
+    "icon": "car.png"
+  },
+  {
+    "id": 8,
+    "name": "localGuid",
+    "label": "راهنمای محلی",
+    "icon": "localGuid.png"
+  },
+  {
+    "id": 9,
+    "name": "certificte",
+    "label": "مجوز برگزرای",
+    "icon": "certificate.png"
+  },
+  {
+    "id": 10,
+    "name": "selfServiceBreakFast",
+    "label": "صبحانه سلف سرویس",
+    "icon": "meal.png"
+  },
+  {
+    "id": 11,
+    "name": "selfServiceLunch",
+    "label": "نهار سلف سرویس",
+    "icon": "meal.png"
+  },
+  {
+    "id": 12,
+    "name": "selfServiceDinner",
+    "label": "شام سلف سرویس",
+    "icon": "meal.png"
+  },
+  {
+    "id": 13,
+    "name": "selfServiceDinner",
+    "label": "میان وعده",
+    "icon": "meal.png"
+  }
+]

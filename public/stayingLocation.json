@@ -1,0 +1,83 @@
+[
+  { "id": 8, "icon": "hastel.png", "name": "هاستل", "label": "هاستل" },
+  { "id": 11, "icon": "tent.png", "name": "چادر شخصی", "label": "چادر شخصی" },
+  { "id": 2, "icon": "apartment.png", "name": "آپارتمان", "label": "آپارتمان" },
+  {
+    "id": 3,
+    "icon": "hotel1star.png",
+    "name": "هتل 1 ستاره",
+    "label": "هتل 1 ستاره"
+  },
+  {
+    "id": 4,
+    "icon": "hotel2star.png",
+    "name": "هتل 2 ستاره",
+    "label": "هتل 2 ستاره"
+  },
+  {
+    "id": 5,
+    "icon": "hotel3star.png",
+    "name": "هتل 3 ستاره",
+    "label": "هتل 3 ستاره"
+  },
+  {
+    "id": 6,
+    "icon": "hotel4star.png",
+    "name": "هتل 4 ستاره",
+    "label": "هتل 4 ستاره"
+  },
+  {
+    "id": 7,
+    "icon": "hotel5star2.png",
+    "name": "هتل 5 ستاره",
+    "label": "هتل 5 ستاره"
+  },
+  {
+    "id": 9,
+    "icon": "mosaferkhane.png",
+    "name": "مسافرخانه",
+    "label": "مسافرخانه"
+  },
+  {
+    "id": 10,
+    "icon": "hastel2.png",
+    "name": "منزل ویلایی",
+    "label": "منزل ویلایی"
+  },
+  {
+    "id": 12,
+    "icon": "fireCamp.png",
+    "name": "کلبه جنگلی",
+    "label": "کلبه جنگلی"
+  },
+  {
+    "id": 13,
+    "icon": "hastel2.png",
+    "name": "اتاق های اشتراکی",
+    "label": "اتاق های اشتراکی"
+  },
+  {
+    "id": 14,
+    "icon": "bedroom2.png",
+    "name": "دارای تخت خواب",
+    "label": "دارای تخت خواب"
+  },
+  {
+    "id": 15,
+    "icon": "groundSleep.png",
+    "name": "به صورت کف خواب",
+    "label": "به صورت کف خواب"
+  },
+  {
+    "id": 1,
+    "icon": "boomgardi.png",
+    "name": "اقامتگاه بومگردی",
+    "label": "اقامتگاه بومگردی"
+  },
+  {
+    "id": 16,
+    "icon": "noHome.png",
+    "name": "بدون اقامت",
+    "label": "بدون اقامت"
+  }
+]

@@ -1,0 +1,172 @@
+/* @font-face {
+  font-family: "iransans";
+  src: url("../public/fonts/irsans.ttf");
+}
+/* @font-face {
+  font-family: "yekan";
+  src: url("../public/fonts/yekan.ttf");
+} */
+/* @font-face {
+  font-family: "mitra";
+  src: url("../public/fonts/mitra.ttf");
+}
+@font-face {
+  font-family: "vanila";
+  src: local("vanila"), url(../public/fonts/mitra.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "yekan";
+  src: url("../public/fonts/Yekan.eot");
+  src: url("../public/fonts/Yekan.eot?#iefix") format("Yekan-opentype"),
+    url("../public/fonts/Yekan.woff") format("woff"),
+    url("../public/fonts/yekan.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: IRAN;
+  font-style: normal;
+  font-weight: bold;
+  src: url("../public/fonts/fonts/eot/IRANBold.eot");
+  src: url("../public/fonts/fonts/eot/IRANBold.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("../public/fonts/fonts/woff2/IRANBold.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+      url("../public/fonts/fonts/woff/IRANBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("../public/fonts/fonts/ttf/IRANBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: IRAN;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../public/fonts/fonts/eot/IRANBlack.eot");
+  src: url("../public/fonts/fonts/eot/IRANBlack.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("../public/fonts/fonts/woff2/IRANBlack.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+      url("../public/fonts/fonts/woff/IRANBlack.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("../public/fonts/fonts/ttf/IRANBlack.ttf") format("truetype");
+}
+@font-face {
+  font-family: IRAN;
+  font-style: normal;
+  font-weight: 600;
+  src: url("../public/fonts/fonts/eot/IRAN_SemiBold.eot");
+  src: url("../public/fonts/fonts/eot/IRAN_SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("../public/fonts/fonts/woff2/IRAN_SemiBold.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/
+      url("../public/fonts/fonts/woff/IRAN_SemiBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("../public/fonts/fonts/ttf/IRAN_SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: IRAN;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../public/fonts/fonts/eot/IRAN.eot");
+  src: url("../public/fonts/fonts/eot/IRAN.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("../public/fonts/fonts/woff2/IRAN.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../public/fonts/fonts/woff/IRAN.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("../public/fonts/fonts/ttf/IRAN.ttf") format("truetype");
+}
+
+* {
+  font-family: IRAN !important;
+  /* font-weight: 600 !important ; */
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+  /* font-weight: 800 !important ; */
+  /* overflow: hidden; */
+}
+h5 {
+  font-weight: 600;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.swiper-button-next {
+  margin-top: 80px;
+  position: absolute;
+  top: 500%;
+  right: -40px;
+  width: 45px;
+  height: 450px;
+  transform: translateY(-50%);
+}
+.swiper-button-prev {
+  position: absolute;
+  top: 50%;
+  left: -40px;
+  width: 45px;
+  height: 45px;
+  transform: translateY(-50%);
+  margin-top: 0px;
+}
+
+@media (max-width: 900px) {
+  .hidden-mobile {
+    display: none;
+  }
+}
+@media (max-width: 900px) {
+  .itemShow {
+    position: "static ";
+    margin: "0px 20px !important";
+  }
+}
+/* @media (min-width: 900px) {
+  .itemShow {
+    position: "fixed";
+  }
+} */
+
+@media (min-width: 900px) {
+  .menu {
+    display: none;
+  }
+}
